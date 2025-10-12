@@ -1,0 +1,20 @@
+﻿Variable name,Label
+country,Country name
+cow_code,COW country code
+unique_id,Donation ID
+don_date,Date of the donation 
+donor_name,Name of the donor entity
+receiver_name,Name of the receiver entity
+final_destination,City where the resources were used
+donor_code,"Donor code: 1. central government; 2. provincial government; 3. municipal government; 4. university, 5. enterprise; 6. individual; 7. foundation; 8. other; 100. Taiwan"
+collective_donation,Dummy that assumes 1 when the donation was made by more than one donor. Total values in US$ are divided by the number of donors.
+recipient_code,"recipient code: 1. central government; 2. provincial government; 3. municipal government; 4. university, 5. enterprise; 6. individual; 7. foundation."
+masks,Number of normal masks donated
+masks_n95,Number of N95 masks donated
+tests,Number of tests donated
+ventilators,Number of ventialtors donated
+other,Other equipment donated
+amount_usd,"Amount of the donation in US$ (based on variables: masks, masks_n95, tests, ventilators and other)"
+press_link,Link to the press for more information (only one was kept when there were several)
+revision_date,Date the donation was included in the dataset after double-check
+official_source,"Dummy that assumes 1 when the information was shared in the official webstie/social media account, the donor or in the official webstie/social media account of the receipient or the news outlet quotes a govermental source. "
