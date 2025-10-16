@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.codeActionWidget.includeNearbyQuickFixes": false,
+    "editor.suggest.selectionMode": "never"
+}
